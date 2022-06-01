@@ -1,0 +1,20 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "description": "Terror"
+    },
+    {
+      "id": 2,
+      "description": "Comédia"
+    },
+    {
+      "id": 3,
+      "description": "Ação"
+    },
+    {
+      "id": 4,
+      "description": "drama"
+    }
+  ]
+}
